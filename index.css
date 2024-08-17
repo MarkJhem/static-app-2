@@ -1,0 +1,99 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  
+}
+
+.codehub-logo {
+    height: 40px;
+}
+
+
+.navbar-1 {
+    margin-left: 100px;
+}
+.navbar {
+    z-index: 1;
+}
+
+.bg-color {
+    background-image: linear-gradient( #4600EE, #6219F9);
+
+}
+
+.img-icon{
+    height: 70px;
+}
+
+#details {
+    margin-top: -30px;
+    z-index: 2;
+}
+
+
+#carouselExampleAutoplaying {
+    z-index: -11;
+
+}
+
+
+#hero {
+    background-image: linear-gradient( #4600EE, #6219F9);
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+#hero-1 {
+    justify-content: center;
+}
+
+.all-btn {
+    text-decoration: none;
+    color: white
+}
+
+#introduction{
+    background-image: linear-gradient( #4600EE, #6219F9);
+    color: white;
+}
+
+#about-bg {
+    background-image: linear-gradient( #4600EE, #6219F9);
+}
+
+
+.img-icon-resources {
+    height: 40px;
+}
+
+#category-card {
+    height: 150px;
+    
+}
+
+#categories-title a{
+    text-decoration: none;
+}
+#categories-title:hover {
+    transition: 0.4s;
+}
+
+#categories-title:hover {
+    transform: scale(1.05);
+}
+
+
+
+#categories-img:hover {
+    background-image: linear-gradient( #4600EE, #6219F9);
+    color: white;
+}
+
+#featured-btn:hover {
+    background-image: linear-gradient( #4600EE, #6219F9);
+    color: white;
+    transform: scale(1.1);
+    transition: 0.4s;
+}
