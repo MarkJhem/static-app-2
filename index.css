@@ -97,3 +97,7 @@
     transform: scale(1.1);
     transition: 0.4s;
 }
+
+#codehub-logo-1 {
+    height: 100px;
+}
